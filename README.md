@@ -44,14 +44,4 @@ npm run build
 npm preview
 ```
 
-## Live Demo
 
-[View Live Demo](#) *(Link will be added after deployment)*
-
-## Screenshots
-
-![E-Commerce App](screenshot.png)
-
-## License
-
-MIT
