@@ -4,14 +4,14 @@ A modern, responsive e-commerce application built with React and Vite, featuring
 
 ## Features
 
-- 🛍️ Product listing with grid layout
-- 🔍 Search products by name
-- 🏷️ Filter by category
-- 💰 Sort by price (Low to High / High to Low)
-- 🛒 Shopping cart with quantity management
-- 💾 Cart persistence with localStorage
-- 📱 Fully responsive design
-- ✨ Modern UI with smooth animations
+-  Product listing with grid layout
+-  Search products by name
+-  Filter by category
+-  Sort by price (Low to High / High to Low)
+-  Shopping cart with quantity management
+-  Cart persistence with localStorage
+-  Fully responsive design
+-  Modern UI with smooth animations
 
 ## Tech Stack
 
