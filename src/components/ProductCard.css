@@ -97,8 +97,13 @@
 
 .btn-add-cart.in-cart {
     background-color: var(--secondary-color);
+    /* Cyan */
+    color: var(--bg-secondary);
+    /* Dark text on bright cyan */
 }
 
 .btn-add-cart.in-cart:hover {
-    background-color: #059669;
+    background-color: #0096c7;
+    /* Darker Cyan */
+    opacity: 0.9;
 }
