@@ -2,6 +2,7 @@
   "name": "mini-ecommerce-cart",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://audicitty.github.io/mini-ecommerce-cart",
   "type": "module",
   "scripts": {
     "dev": "vite",
